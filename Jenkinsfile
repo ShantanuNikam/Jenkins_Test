@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'Start_Pipeline'
+      label 'Git'
     }
 
   }
